@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kbits PUBLIC "-//Kreative//DTD BitsNPicasBitmap 1.0//EN" "http://www.kreativekorp.com/dtd/kbitx.dtd">
+<kbits>
+<prop id="emAscent" value="14"/>
+<prop id="emDescent" value="2"/>
+<prop id="lineAscent" value="14"/>
+<prop id="lineDescent" value="2"/>
+<prop id="lineGap" value="0"/>
+<prop id="xHeight" value="8"/>
+<prop id="capHeight" value="10"/>
+<prop id="newGlyphWidth" value="8"/>
+<name id="1" value="Duality"/>
+<name id="2" value="Regular"/>
+<name id="3" value="Korin: Duality: 2026"/>
+<name id="4" value="Duality"/>
+<name id="5" value="Version 1.0"/>
+<name id="6" value="Duality"/>
+<name id="8" value="Korin"/>
+<name id="11" value="https://github.com/KorinDev/duality"/>
+<g u="33" x="1" y="9" w="3" d="CAFFAUI"/>
+<g u="34" x="1" y="10" w="5" d="AgPC/wBCwgD/"/>
+<g u="35" x="1" y="8" w="9" d="CAcDw/8A/wTD/wD/AkYCw/8A/wTD/wD/AkYCw/8A/wTD/wD/Aw"/>
+<g u="36" x="1" y="9" w="7" d="CQUCQQNDxQD/AP8AQsIA/wNDA8L/AELFAP8A/wBDA0EC"/>
+<g u="37" x="1" y="10" w="11" d="CQnCAP8EQQLD/wD/A0ECw/8A/wJBBEEDQQdBB0EDQQRBAsP/AP8CQQPD/wD/AkEEwv8A"/>
+<g u="38" x="1" y="9" w="8" d="CQYCQQTD/wD/A8P/AP8Dw/8A/wRBBMT/AP8AQgPD/wD/A0ECQ8IA/w"/>
+<g u="39" x="1" y="10" w="3" d="AgFC"/>
+<g u="40" x="1" y="9" w="5" d="CQMCw/8A/wLD/wD/AkECQQNBAkEDQQ"/>
+<g u="41" x="1" y="9" w="5" d="CQNBA0ECQQNBAkECw/8A/wLD/wD/Ag"/>
+<g u="42" x="1" y="9" w="9" d="BwcDQQNBAkECx/8A/wD/AP8DQwPH/wD/AP8A/wJBAkEDQQM"/>
+<g u="43" x="1" y="8" w="7" d="BQUCQQRBAkUCQQRBAg"/>
+<g u="44" x="1" y="1" w="4" d="AgIBQgE"/>
+<g u="45" x="1" y="4" w="7" d="AQVF"/>
+<g u="46" x="1" y="1" w="3" d="AQFB"/>
+<g u="47" x="1" y="9" w="5" d="CQMCQQJBAsP/AP8CQQLD/wD/AkECQQI"/>
+<g u="48" x="1" y="9" w="7" d="CQUBQ8IA/wNCAkMCQ8MA/wBDAkMCQgPC/wBDAQ"/>
+<g u="49" x="1" y="9" w="4" d="CQJC0AD/AP8A/wD/AP8A/wD/AP8"/>
+<g u="50" x="1" y="9" w="7" d="CQVEBUEEQQTC/wBDwgD/BEEEQQRF"/>
+<g u="51" x="1" y="9" w="7" d="CQVEBUEEQQTC/wBDBUEEQQRFAQ"/>
+<g u="52" x="1" y="9" w="8" d="CQZBA8P/AP8Dw/8A/wPD/wD/A8P/AP8DQQJFBEEFQQXC/wA"/>
+<g u="53" x="1" y="9" w="7" d="CQVGBEEEQQREBUEEQQRFAQ"/>
+<g u="54" x="1" y="9" w="7" d="CQUBQ8IA/wRBBEEERMIA/wNCA0IDwv8AQwE"/>
+<g u="55" x="1" y="9" w="7" d="CQVFBEEEQQNBA0EEQQRBBEEEQQI"/>
+<g u="56" x="1" y="9" w="7" d="CQUBQ8IA/wNCA0IDwv8AQ8IA/wNCA0IDwv8AQwE"/>
+<g u="57" x="1" y="9" w="7" d="CQUBQ8IA/wNCA0IDwv8ARARBBEEEwv8AQwE"/>
+<g u="58" x="1" y="6" w="3" d="BQFBA0E"/>
+<g u="59" x="0" y="6" w="3" d="BgLCAP8HQgE"/>
+<g u="60" x="1" y="6" w="5" d="BQMCxf8A/wD/A0EDQQ"/>
+<g u="61" x="1" y="5" w="6" d="AwREBEQ"/>
+<g u="62" x="1" y="6" w="5" d="BQNBA0EDxf8A/wD/Ag"/>
+<g u="63" x="1" y="9" w="6" d="CQRDBEEDQQJBAkEDQQdBA0EC"/>
+<g u="64" x="1" y="8" w="9" d="CQcCQwNBA8P/AP8CQgFCxQD/AP8AQsUA/wD/AELFAP8A/wBCAkMCQQdEAQ"/>
+<g u="65" x="1" y="9" w="7" d="CQUCQQRBA8P/AP8Cw/8A/wLE/wD/AEYDQgNCA0E"/>
+<g u="66" x="1" y="9" w="7" d="CQVEwgD/A0IDQgNFwgD/A0IDQgNFAQ"/>
+<g u="67" x="1" y="9" w="7" d="CQUBRQRBBEEEQQRBBEEEQQVE"/>
+<g u="68" x="1" y="9" w="7" d="CQVEwgD/A0IDQgNCA0IDQgNCA0UB"/>
+<g u="69" x="1" y="9" w="6" d="CQRFA0EDQQNFA0EDQQNE"/>
+<g u="70" x="1" y="9" w="6" d="CQRFA0EDQQNFA0EDQQNBAw"/>
+<g u="71" x="1" y="9" w="7" d="CQUBRQRBBEEEwv8ARANCA0IDwv8AQwE"/>
+<g u="72" x="1" y="9" w="7" d="CQVBA0IDQgNCA0cDQgNCA0IDQQ"/>
+<g u="73" x="1" y="9" w="3" d="CQFJ"/>
+<g u="74" x="1" y="9" w="6" d="CQQDQQNBA0EDQQNBA0EDQQNEAQ"/>
+<g u="75" x="1" y="9" w="7" d="CQVBA0ICw/8A/wLF/wD/AP8CQgPD/wD/AkECw/8A/wLD/wD/A0E"/>
+<g u="76" x="1" y="9" w="6" d="CQRBA0EDQQNBA0EDQQNBA0EDRA"/>
+<g u="77" x="1" y="9" w="7" d="CQVBA0IDQwFEAUPDAP8AQsMA/wBCA0IDQgNB"/>
+<g u="78" x="1" y="9" w="7" d="CQVBA0MCQwJCwwD/AELDAP8AQgJDAkMDQgNB"/>
+<g u="79" x="1" y="9" w="7" d="CQUBQ8IA/wNCA0IDQgNCA0IDQgPC/wBDAQ"/>
+<g u="80" x="1" y="9" w="7" d="CQVEwgD/A0IDQgNFwgD/BEEEQQRBBA"/>
+<g u="81" x="1" y="9" w="7" d="CgUBQ8IA/wNCA0IDQgNCA0IDQsUA/wD/AEMEQg"/>
+<g u="82" x="1" y="9" w="7" d="CQVEwgD/A0IDQgNFwgD/AsP/AP8Cw/8A/wNCA0E"/>
+<g u="83" x="1" y="9" w="6" d="CQQBRANBA0EEQgRBA0EDRAE"/>
+<g u="84" x="1" y="9" w="7" d="CQVFAkEEQQRBBEEEQQRBBEEEQQI"/>
+<g u="85" x="1" y="9" w="7" d="CQVBA0IDQgNCA0IDQgNCA0IDwv8AQwE"/>
+<g u="86" x="1" y="9" w="7" d="CQVBA0IDQgPF/wD/AP8Cw/8A/wLD/wD/AsP/AP8DQQRBAg"/>
+<g u="87" x="1" y="9" w="7" d="CQVBA0IDQsMA/wBCwwD/AELDAP8AQsgA/wD/AP8A/wLD/wD/AsT/AP8A"/>
+<g u="88" x="1" y="9" w="7" d="CQVBA0IDxf8A/wD/AsP/AP8DQQPD/wD/AsX/AP8A/wNCA0E"/>
+<g u="89" x="1" y="9" w="7" d="CQVBA0IDxf8A/wD/AsP/AP8DQQRBBEEEQQRBAg"/>
+<g u="90" x="1" y="9" w="6" d="CQREA0ECQQNBAkICQQNBAkEDRA"/>
+<g u="91" x="1" y="9" w="5" d="CQNEAkECQQJBAkECQQJBAkM"/>
+<g u="92" x="1" y="9" w="5" d="CQNBAkECQQNBAkECQQNBAkECQQ"/>
+<g u="93" x="1" y="9" w="5" d="CQNDAkECQQJBAkECQQJBAkQ"/>
+<g u="94" x="1" y="10" w="5" d="AgPGAP8A/wD/"/>
+<g u="95" x="0" y="1" w="4" d="AQRE"/>
+<g u="96" x="0" y="0" w="8" d="AAA"/>
+<g u="97" x="1" y="6" w="7" d="BgVEBcL/AEUDQgPC/wBE"/>
+<g u="98" x="1" y="9" w="7" d="CQVBBEEEQQREwgD/A0IDQgNCA0UB"/>
+<g u="99" x="1" y="6" w="6" d="BgQBRANBA0EDQQRD"/>
+<g u="100" x="1" y="9" w="7" d="CQUEQQRBBML/AEUDQgNCA0IDwv8ARA"/>
+<g u="101" x="1" y="6" w="7" d="BgUBQ8IA/wNHBEEFQwE"/>
+<g u="102" x="1" y="9" w="6" d="CQQCQsIA/wNBAkTCAP8DQQNBA0EDQQI"/>
+<g u="103" x="1" y="6" w="7" d="BwUBRQNCA0IDwv8ARARFAQ"/>
+<g u="104" x="1" y="9" w="7" d="CQVBBEEEQQREwgD/A0IDQgNCA0IDQQ"/>
+<g u="105" x="1" y="8" w="3" d="CAHC/wBG"/>
+<g u="106" x="-1" y="8" w="3" d="CQMCQQVBAkECQQJBAkECQwE"/>
+<g u="107" x="1" y="9" w="6" d="CQRBA0EDQQNBAkLDAP8AQgLF/wD/AP8CQgJB"/>
+<g u="108" x="1" y="9" w="4" d="CQLP/wD/AP8A/wD/AP8A/wD/AkE"/>
+<g u="109" x="1" y="6" w="9" d="BgdGwgD/AkECQgJBAkICQQJCAkECQgJBAkE"/>
+<g u="110" x="1" y="6" w="7" d="BgVEwgD/A0IDQgNCA0IDQQ"/>
+<g u="111" x="1" y="6" w="7" d="BgUBQ8IA/wNCA0IDQgPC/wBDAQ"/>
+<g u="112" x="1" y="6" w="7" d="BgVEwgD/A0IDRcIA/wRBBA"/>
+<g u="113" x="1" y="6" w="7" d="BgUBRQNCA8L/AEQEQQRB"/>
+<g u="114" x="1" y="6" w="6" d="BgTC/wBEAkEDQQNBA0ED"/>
+<g u="115" x="1" y="6" w="6" d="BgQBRARCBEEDRAE"/>
+<g u="116" x="1" y="8" w="6" d="CATCAP8DQQJEwgD/A0EDQQNBBEI"/>
+<g u="117" x="1" y="6" w="7" d="BgVBA0IDQgNCA0IDwv8ARA"/>
+<g u="118" x="1" y="6" w="7" d="BgVBA0IDxf8A/wD/AsP/AP8DQQRBAg"/>
+<g u="119" x="1" y="6" w="7" d="BgVBA0LDAP8AQsMA/wBCyAD/AP8A/wD/AsT/AP8A"/>
+<g u="120" x="1" y="6" w="7" d="BgVBA8X/AP8A/wNBBEEDxf8A/wD/A0E"/>
+<g u="121" x="1" y="6" w="7" d="BwVBA0IDxf8A/wD/AsP/AP8DQQRBAkID"/>
+<g u="122" x="1" y="6" w="7" d="BgVFA0EDQQNBA0EERQ"/>
+<g u="123" x="1" y="9" w="6" d="CQQCQsIA/wNBA0ECQQRBA0EDQQRC"/>
+<g u="124" x="1" y="9" w="3" d="CQFJ"/>
+<g u="125" x="1" y="9" w="6" d="CQRCBEEDQQNBBEECQQNBA8L/AEIC"/>
+<g u="126" x="1" y="9" w="7" d="AwXCAP8Dxf8A/wD/A8L/AA"/>
+<g u="161" x="1" y="9" w="3" d="CAFCAUU"/>
+<g u="162" x="1" y="9" w="8" d="CQYDQQNEwgD/AsL/AELCAP8Dw/8A/wPD/wD/A0IDwv8ARAJBBA"/>
+<g u="163" x="1" y="9" w="7" d="CQUCQgJBAsP/AP8FQQJFAkEDQQNBBEU"/>
+<g u="165" x="1" y="9" w="7" d="CQVBA0IDxv8A/wD/AEUCQQRBAkUCQQRBAg"/>
+<g u="167" x="1" y="10" w="7" d="CgUBRQRBBUPCAP8DQgPC/wBDBUEERQE"/>
+<g u="169" x="0" y="9" w="9" d="CQkCRQNBBcP/AP8CQwJCwgD/A8L/AELCAP8FQsIA/wPC/wBCAkMCw/8A/wVBA0UC"/>
+<g u="174" x="0" y="9" w="9" d="CQkCRQNBBcT/AP8ARAJCwgD/A8L/AEIBRAJCwgD/AkECQsIA/wPF/wD/AP8FQQNFAg"/>
+<g u="176" x="1" y="10" w="5" d="AwNEAUQ"/>
+<g u="177" x="1" y="8" w="7" d="BwUCQQRBAkUCQQRBB0U"/>
+<g u="188" x="0" y="0" w="0" d="AAA"/>
+<g u="189" x="0" y="0" w="0" d="AAA"/>
+<g u="191" x="1" y="9" w="6" d="CQTCAP8DQQdBA0EEQQRBA0QB"/>
+<g u="8592" x="1" y="6" w="8" d="BQYCQQRCA0YBQgVBAw"/>
+<g u="8593" x="1" y="7" w="8" d="BgUCQQNDAUUCQQRBBEEC"/>
+<g u="8594" x="1" y="6" w="8" d="BQYDQQVCAUYDQgRBAg"/>
+<g u="8595" x="1" y="7" w="8" d="BgUCQQRBBEECRQFDA0EC"/>
+<g u="9632" x="0" y="5" w="4" d="BARQ"/>
+<g u="9633" x="0" y="5" w="4" d="BARFAkICRQ"/>
+<g u="9644" x="0" y="3" w="4" d="AgRI"/>
+<g u="9675" x="0" y="6" w="4" d="BAQBQsIA/wJCAsL/AEIB"/>
+<g u="9679" x="0" y="6" w="4" d="BAQBQgFIAUIB"/>
+</kbits>
