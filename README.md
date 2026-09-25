@@ -7,7 +7,8 @@ Duality is licensed under the Public Domain
 
 ## Preview
 
-<img width="1012" height="321" alt="image" src="https://github.com/user-attachments/assets/38b41903-8bcb-418d-8ba6-c6279378bb37" />
+<img width="570" height="360" alt="image" src="https://github.com/user-attachments/assets/dabca1d3-d3c0-423e-84a0-3c47fce2b446" />
+
 
 
  ###### made using [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas)
